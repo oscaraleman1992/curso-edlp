@@ -1,0 +1,40 @@
+
+
+
+.boton{
+    color: white !important;
+}
+.boton:hover{
+ color:red !important;
+}
+
+div i{
+    font-size: 2rem;
+    color: rgb(245, 32, 3);
+}
+
+.logo {
+color: rgb(245, 32, 3) !important;
+}
+
+span{
+    color: rgb(1, 53, 54);
+}
+
+a i{
+    color: rgb(3, 20, 248);
+    font-size: x-large;
+  
+    padding: 6px;
+}
+
+@media (max-width:740px){
+    ul{
+list-style-type: none;
+    }
+
+    .iconos{
+        padding-top: 10px;
+        text-align: center;
+    }
+}
